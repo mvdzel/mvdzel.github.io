@@ -19,15 +19,24 @@ description: >- # this means to ignore newlines until "baseurl:"
   VanderZel Informatics focusus on advancing FHIR implementation, strengthening healthcare data interoperability, and continuing to bridge the gap between technical standards and practical healthcare delivery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: mvdzel
+linkedin_username: michaelvanderzel
 github_username:  mvdzel
+author:
+  name: Michael van der Zel
+  email: "michael@vdzi.nl"
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  skin: dark
 
+header_pages:
+  - about.md
+  - portfolio.md
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
