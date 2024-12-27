@@ -17,8 +17,8 @@ title: VanderZel Informatics
 author: Michael van der Zel
 email: michael@vdzi.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  VanderZel Informatics focusus on advancing FHIR implementation, strengthening healthcare data interoperability, 
-  and continuing to bridge the gap between technical standards and practical healthcare delivery.
+  VanderZel Informatics is dedicated to advancing FHIR implementation, strengthening healthcare data interoperability, 
+  and bridging the gap between technical standards and practical healthcare delivery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mvdzel
