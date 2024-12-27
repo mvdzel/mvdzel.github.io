@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   VanderZel Informatics focusus on advancing FHIR implementation, strengthening healthcare data interoperability, and continuing to bridge the gap between technical standards and practical healthcare delivery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: michaelvanderzel
+linkedin_username: mvdzel
 github_username:  mvdzel
 
 # Build settings
