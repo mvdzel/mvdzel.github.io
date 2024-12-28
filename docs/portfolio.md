@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-This portfolio highlights my experience in health information technology, contributing to complex interoperability projects, with a strong focus on data mapping, standards implementation, and automated tooling, with a focus on FHIR and related technologies.
+This portfolio highlights my experience in health information technology.
 
 ## Standards Development Support & Implementation
 
