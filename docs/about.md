@@ -12,9 +12,6 @@ The year brought significant advances in connecting technical standards with hea
 
 Completing ArchiMate 3.2 Foundation certification enhanced our enterprise architecture capabilities, while continuing leadership roles in HL7 International EHR Work Group and FHIR NL Validatieteam allowed us to shape standards development with implementation insights.
 
-Most meaningful was seeing how standards certification translates to improved healthcare delivery:
-https://www.linkedin.com/feed/update/urn:li:activity:7219990090402463744/
-
 Looking ahead to 2025, the focus remains on advancing FHIR implementation, strengthening healthcare data interoperability, and continuing to bridge the gap between technical standards and practical healthcare delivery.
 
 I'm grateful to the healthcare standards community, particularly HL7 Nederland and the University Medical Center Groningen, for their continued collaboration in advancing healthcare interoperability. The science of standards serves the art of care delivery - together we're making both stronger.
