@@ -30,6 +30,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%B %-d, %Y"
+
 header_pages:
   - about.md
   - portfolio.md
