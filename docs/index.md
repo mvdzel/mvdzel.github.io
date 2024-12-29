@@ -4,6 +4,7 @@
 
 layout: home
 ---
+![logo](/images/logo.png)
 
 **Driving Healthcare Interoperability Through Standards and Technology**
 
