@@ -1,5 +1,0 @@
-current directory: /home/michael/eclipse-workspace/mvdzel.github.io/docs/vendor/bundle/ruby/2.3.0/gems/commonmarker-0.17.13/ext/commonmarker
-/usr/bin/ruby2.3 -I /usr/local/lib/site_ruby/2.3.0 -r ./siteconf20241227-2463166-15gkusq.rb extconf.rb
-mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
-
-extconf failed, exit code 1
